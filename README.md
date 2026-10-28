@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 
+
+<img width="480" height="358" alt="gif" src="https://github.com/user-attachments/assets/02c6241d-5b1b-4c56-9df7-892849ed11ac" />
 
 <!--
 **Shalopaiz/Shalopaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
